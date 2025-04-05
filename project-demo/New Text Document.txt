@@ -1,7 +1,0 @@
-<html>
-<head><title>avinash</title>
-</head>
-<body>
-<h1>avinash</h1>
-</body>
-</html>
